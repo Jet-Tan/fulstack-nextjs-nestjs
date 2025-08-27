@@ -1,6 +1,10 @@
 {
   "name": "fulstack-nextjs-nestjs",
   "version": "0.1.0",
+  "author": {
+    "name": "Jet Tan",
+    "url": "https://jettan.vn"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
